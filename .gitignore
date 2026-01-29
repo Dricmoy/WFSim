@@ -1,0 +1,19 @@
+# Unreal Engine Intermediate and Cache
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Intermediate/
+Build/*/Inc/
+.vscode/
+
+# Ignore Config that changes per-user
+*.opensdf
+*.sdf
+*.suo
+
+# Ignore user-specific files
+*.log
+*.tmp
+*.user
+*.ds_store
